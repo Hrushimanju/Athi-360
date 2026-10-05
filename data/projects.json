@@ -1,0 +1,86 @@
+{
+  "company": {
+    "name": "ATHI 360 LTD",
+    "number": "17401160",
+    "jurisdiction": "England and Wales",
+    "type": "Private limited company",
+    "incorporated": "14 August 2026",
+    "office": "71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ",
+    "sic": [
+      "62012 - Business and domestic software development",
+      "63120 - Web portals",
+      "74100 - Specialised design activities",
+      "74909 - Other professional, scientific and technical activities not elsewhere classified"
+    ],
+    "source": "Companies House, checked 2026-10-05",
+    "line": "We build software that gives people back things modern life wore away: shared stories, hands-on curiosity, home cooking, and the confidence to look after their own affairs."
+  },
+  "projects": [
+    {
+      "slug": "kathaa",
+      "name": "Kathaa 360",
+      "status": "live",
+      "siteUrl": "https://kathaa.athi360.uk",
+      "ownDomain": false,
+      "problem": "Daily spoken storytelling used to give families something to share and talk about. Many children and older people now spend evenings alone, with nothing to say to each other.",
+      "audience": "Children home alone, busy adults who want one good hour instead of endless scrolling, and isolated older people.",
+      "today": "A web app with the series The 12 Jyotirlingas (first 3 chapters): Sanskrit verses with transliteration, a story read aloud, a private journal, and a deliberate 60-minute daily limit.",
+      "future": "More series (myths, history, children's bedtime knowledge), family accounts, and narration in familiar voices with recorded consent."
+    },
+    {
+      "slug": "dish",
+      "name": "Dish (What Do I Cook Today?)",
+      "status": "live",
+      "siteUrl": "https://dish-athi360.pages.dev",
+      "ownDomain": false,
+      "problem": "More meals are being ordered in, and more people live alone, so everyday cooking is becoming a lost skill and cooking for one feels pointless.",
+      "audience": "People living alone, beginners, and anyone who cannot decide what to make from what is in the kitchen.",
+      "today": "An early public version: type the ingredients you have and it suggests a dish with beginner-friendly, numbered steps. 16 built-in everyday dishes, with no-oil variants and flavour tips.",
+      "future": "Making home cooking for one practical again: wider recipes, pantry-aware suggestions, and meals that fit a solo routine."
+    },
+    {
+      "slug": "circuit-lab",
+      "name": "Circuit Lab 360",
+      "status": "in-design",
+      "siteUrl": null,
+      "ownDomain": false,
+      "problem": "Electronics feels closed to people who know nothing about it: the tools assume you already understand the maths.",
+      "audience": "Complete beginners, students, and curious tinkerers.",
+      "today": "In design. The specification is written: a circuit sandbox where you place and wire parts and a tutor explains in plain language what is happening and warns before a part fails. No public build yet.",
+      "future": "A guided path from first circuit to board-level thinking, built on a real circuit simulator."
+    },
+    {
+      "slug": "hrushimanju",
+      "name": "Hrushimanju",
+      "status": "in-development",
+      "siteUrl": null,
+      "ownDomain": true,
+      "problem": "Most people own clothes that do not suit their colouring and have no affordable way to find out what does.",
+      "audience": "Anyone who wants to dress well from the wardrobe they already own.",
+      "today": "In development: AI-guided personal colour analysis applied to the clothes you already own. Research and legal groundwork are underway; no public site yet.",
+      "future": "Knowing what to wear without hiring a colourist."
+    },
+    {
+      "slug": "consumersuit",
+      "name": "ConsumerSuit",
+      "status": "live",
+      "siteUrl": "https://consumer-suit.uk",
+      "ownDomain": true,
+      "problem": "Tenants, consumers and employees with a genuine claim often cannot afford help and do not know where to start.",
+      "audience": "UK tenants, consumers and employees.",
+      "today": "A live web app that helps you set out your UK rights case clearly and in order, with the relevant law explained along the way.",
+      "future": "More case types and clearer guidance at every step."
+    },
+    {
+      "slug": "astral-nexus",
+      "name": "Astral Nexus",
+      "status": "live",
+      "siteUrl": "https://astralnexus.athi360.uk",
+      "ownDomain": false,
+      "problem": "Astrology tools are scattered, ad-ridden, and rarely explain their method.",
+      "audience": "People curious about their Moon sign, rising sign and nakshatra.",
+      "today": "A live site with reading tools across traditions.",
+      "future": "More traditions and place-aware tools."
+    }
+  ]
+}
