@@ -20,6 +20,6 @@ Making home cooking for one practical again: wider recipes, pantry-aware suggest
 
 ## Links
 
-- Site: [dish-athi360.pages.dev](https://dish-athi360.pages.dev)
+- Site: [dish.athi360.uk](https://dish.athi360.uk)
 - [Changelog](CHANGELOG.md)
 - [Latest version data](latest.json)
