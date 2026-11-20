@@ -13,12 +13,21 @@ export function renderAll(reg){
     'Each product folder under `projects/` lists its latest version. Installable builds are attached to this repository\'s **Releases** page. Nothing has been released for download yet.', '',
     '## Service status', '',
     'Outages, maintenance and updates are recorded in [`status/`](status/STATUS.md). Entries are written by us and are never deleted.', '',
-    `## Company`, '', `${c.name}, company number ${c.number}, registered in ${c.jurisdiction}. Registered office: ${c.office}. Full details: [COMPANY.md](COMPANY.md).`, ''
+    `## Company`, '', `${c.name}, company number ${c.number}, registered in ${c.jurisdiction}. Registered office: ${c.office}. Full details: [COMPANY.md](COMPANY.md).`, '',
+    `## Website and official channels`, '',
+    `- **Company website & live showcase:** [athi360.uk](https://athi360.uk)`,
+    `- **Instagram:** [@athi.360](https://www.instagram.com/athi.360/)`,
+    `- **YouTube:** [@athi360](https://www.youtube.com/@athi360)`,
+    `- **X (Twitter):** [@athi360](https://x.com/athi360)`, ''
   ].join('\n'));
   out.set('COMPANY.md', [
     `# ${c.name}`, '',
     `- **Company number:** ${c.number}`, `- **Type:** ${c.type}`, `- **Registered in:** ${c.jurisdiction}`,
-    `- **Incorporated:** ${c.incorporated}`, `- **Registered office:** ${c.office}`, '',
+    `- **Incorporated:** ${c.incorporated}`, `- **Registered office:** ${c.office}`,
+    `- **Website:** [athi360.uk](https://athi360.uk)`,
+    `- **Instagram:** [@athi.360](https://www.instagram.com/athi.360/)`,
+    `- **YouTube:** [@athi360](https://www.youtube.com/@athi360)`,
+    `- **X (Twitter):** [@athi360](https://x.com/athi360)`, '',
     '## Nature of business (SIC)', '', ...c.sic.map(s=>`- ${s}`), '', `Source: ${c.source}.`, ''
   ].join('\n'));
   out.set('status/STATUS.md', [

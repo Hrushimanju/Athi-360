@@ -26,3 +26,10 @@ Outages, maintenance and updates are recorded in [`status/`](status/STATUS.md). 
 ## Company
 
 ATHI 360 LTD, company number 17401160, registered in England and Wales. Registered office: 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ. Full details: [COMPANY.md](COMPANY.md).
+
+## Website and official channels
+
+- **Company website & live showcase:** [athi360.uk](https://athi360.uk)
+- **Instagram:** [@athi.360](https://www.instagram.com/athi.360/)
+- **YouTube:** [@athi360](https://www.youtube.com/@athi360)
+- **X (Twitter):** [@athi360](https://x.com/athi360)
