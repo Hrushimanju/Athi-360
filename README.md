@@ -10,8 +10,8 @@ This repository is our public record: where to get the latest version of each pr
 |---|---|---|
 | [Kathaa 360](projects/kathaa/README.md) | Live | [kathaa.athi360.uk](https://kathaa.athi360.uk) |
 | [Dish (What Do I Cook Today?)](projects/dish/README.md) | Live | [dish.athi360.uk](https://dish.athi360.uk) |
-| [Circuit Lab 360](projects/circuit-lab/README.md) | In design | No public site yet |
-| [Hrushimanju](projects/hrushimanju/README.md) | In development | No public site yet |
+| [Circuit Lab 360](projects/circuit-lab/README.md) | Live | [circuit-lab.athi360.uk](https://circuit-lab.athi360.uk) |
+| [Hrushimanju](projects/hrushimanju/README.md) | Live | [hrushimanju.uk](https://hrushimanju.uk) |
 | [ConsumerSuit](projects/consumersuit/README.md) | Live | [consumer-suit.uk](https://consumer-suit.uk) |
 | [Astral Nexus](projects/astral-nexus/README.md) | Live | [astralnexus.athi360.uk](https://astralnexus.athi360.uk) |
 

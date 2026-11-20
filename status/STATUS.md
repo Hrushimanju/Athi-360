@@ -6,7 +6,7 @@ Written by us. Newest entries first in `incidents/` and `maintenance/`. This pag
 |---|---|---|
 | Kathaa 360 | Live | No incidents recorded. |
 | Dish (What Do I Cook Today?) | Live | No incidents recorded. |
-| Circuit Lab 360 | In design | No incidents recorded. |
-| Hrushimanju | In development | No incidents recorded. |
+| Circuit Lab 360 | Live | No incidents recorded. |
+| Hrushimanju | Live | No incidents recorded. |
 | ConsumerSuit | Live | No incidents recorded. |
 | Astral Nexus | Live | No incidents recorded. |

@@ -22,10 +22,10 @@
       "status": "live",
       "siteUrl": "https://kathaa.athi360.uk",
       "ownDomain": false,
-      "problem": "Daily spoken storytelling used to give families something to share and talk about. Many children and older people now spend evenings alone, with nothing to say to each other.",
-      "audience": "Children home alone, busy adults who want one good hour instead of endless scrolling, and isolated older people.",
-      "today": "A web app with the series The 12 Jyotirlingas (first 3 chapters): Sanskrit verses with transliteration, a story read aloud, a private journal, and a deliberate 60-minute daily limit.",
-      "future": "More series (myths, history, children's bedtime knowledge), family accounts, and narration in familiar voices with recorded consent."
+      "problem": "Two vital traditions have faded: bedtime stories that teach morals and reflection, and the traditional folk tales once told aloud on neighbourhood streets that passed down local culture. Endless scrolling leaves people disconnected from their roots, while many online retellings rely on Western or British colonial sources rather than truthful indigenous records.",
+      "audience": "Children, families, students and busy adults who want one focused hour of spoken bedtime stories, street folk tales and moral education—and who want to keep a clean journal of the ideas and thoughts that strike them at the moment of listening.",
+      "today": "A live spoken-storytelling platform with The 12 Jyotirlingas (first 3 chapters): original Sanskrit verses with transliteration, moral storytelling read aloud, a built-in private journal to capture your ideas as you listen, and a strict 60-minute daily limit grounded in authentic indigenous sources rather than Western or British colonial filters.",
+      "future": "Why one hour a day? Because we do not want to take much of your time, and one hour of daily knowledge starts like a seed that grows into a wisdom plant for the future. Ahead: street folk tales, regional legends, moral fables, family accounts, and narration in familiar voices with recorded consent."
     },
     {
       "slug": "dish",
@@ -33,32 +33,32 @@
       "status": "live",
       "siteUrl": "https://dish.athi360.uk",
       "ownDomain": false,
-      "problem": "More meals are being ordered in, and more people live alone, so everyday cooking is becoming a lost skill and cooking for one feels pointless.",
-      "audience": "People living alone, beginners, and anyone who cannot decide what to make from what is in the kitchen.",
-      "today": "An early public version: type the ingredients you have and it suggests a dish with beginner-friendly, numbered steps. 16 built-in everyday dishes, with no-oil variants and flavour tips.",
-      "future": "Making home cooking for one practical again: wider recipes, pantry-aware suggestions, and meals that fit a solo routine."
+      "problem": "Bachelors and solo-living people who like to cook often know very little about how cooking actually works. Ordering takeaway gets expensive and repetitive, while recipe sites assume a full family pantry and never teach a solo beginner how to become their own chef.",
+      "audience": "Bachelors, solo-living people and kitchen beginners who want to become their own home chefs from the ingredients they already have—plus adventurous learners open to fun weekly cooking exercises (only try the experimental ones if you are open to wasting a bit of money on food experiments while you learn!).",
+      "today": "A live web app at dish.athi360.uk: type the ingredients you have (including Hinglish like tamatar, aloo, tel) and get beginner-friendly, numbered solo cooking steps across 16 built-in everyday dishes, with no-oil variants and one-ingredient flavour upgrades.",
+      "future": "Helping solo-living beginners become confident home chefs through fun weekly cooking exercises, guided flavour experiments, wider solo recipes with safety checks, and healthy meal demonstrations."
     },
     {
       "slug": "circuit-lab",
       "name": "Circuit Lab 360",
-      "status": "in-design",
-      "siteUrl": null,
+      "status": "live",
+      "siteUrl": "https://circuit-lab.athi360.uk",
       "ownDomain": false,
-      "problem": "Electronics feels closed to people who know nothing about it: the tools assume you already understand the maths.",
-      "audience": "Complete beginners, students, and curious tinkerers.",
-      "today": "In design. The specification is written: a circuit sandbox where you place and wire parts and a tutor explains in plain language what is happening and warns before a part fails. No public build yet.",
-      "future": "A guided path from first circuit to board-level thinking, built on a real circuit simulator."
+      "problem": "Standard electronics teaching only tells you that a circuit fails or calls a method wrong—no one teaches you why it fails unless you physically experiment. For small equipment trial-and-error helps, but for big applications you are too afraid of costly mistakes to experiment freely, while innovators wanting to upgrade a specific electrical component lack a clean simulation environment.",
+      "audience": "Innovators with brilliant ideas to upgrade specific electrical components, complete beginners and students who want electronics taught in the simplest way with clear explanations of why circuits fail, and researchers or engineers planning the placement of electrical components inside confined systems.",
+      "today": "A live parametric CAD and SPICE simulation studio at circuit-lab.athi360.uk powered by real ngspice WebAssembly in the browser, with 24 verified packs, AC Bode sweeps, 94 automated tests, and a 6-variant C9 ablation tutor that shows exactly where and why a circuit fails so you can focus on brainstorming ideas.",
+      "future": "Turning small electrical theories into big innovations: simulating component upgrades and where they can be applied, planning component placement inside confined systems for researchers, and finding leaner, higher-efficiency circuits verified by a real SPICE solver."
     },
     {
       "slug": "hrushimanju",
       "name": "Hrushimanju",
-      "status": "in-development",
-      "siteUrl": null,
+      "status": "live",
+      "siteUrl": "https://hrushimanju.uk",
       "ownDomain": true,
-      "problem": "Most people own clothes that do not suit their colouring and have no affordable way to find out what does.",
-      "audience": "Anyone who wants to dress well from the wardrobe they already own.",
-      "today": "In development: AI-guided personal colour analysis applied to the clothes you already own. Research and legal groundwork are underway; no public site yet.",
-      "future": "Knowing what to wear without hiring a colourist."
+      "problem": "Why learn about fashion? The world revolves around appearance: when you look good, people are far more willing to approach and engage with you. Yet many people know nothing about fashion and have no scientific, unbiased way to know how to look good in the clothes they already own.",
+      "audience": "People who know nothing about fashion and want a welcoming introduction, anyone who wants to look approachable and sharp using the wardrobe they already own, plus cosplayers and aspiring self-taught fashion designers.",
+      "today": "A live web app (18+) at hrushimanju.uk that introduces fashion through scientific skin-analysis and colour-engineering work: an in-browser 3D CIELAB colour harmony engine, Bradford multi-illuminant calibration, background-transparent garment cutouts and a Visual Outfit Composer for the clothes you already own, processed in browser RAM by default.",
+      "future": "Custom outfit design simulation for beginners and cosplayers, controlled-capture colour calibration kits, and 3D personal avatar styling."
     },
     {
       "slug": "consumersuit",
@@ -66,10 +66,10 @@
       "status": "live",
       "siteUrl": "https://consumer-suit.uk",
       "ownDomain": true,
-      "problem": "Tenants, consumers and employees with a genuine claim often cannot afford help and do not know where to start.",
-      "audience": "UK tenants, consumers and employees.",
-      "today": "A live web app that helps you set out your UK rights case clearly and in order, with the relevant law explained along the way.",
-      "future": "More case types and clearer guidance at every step."
+      "problem": "Ordinary people facing a dispute cannot afford a solicitor and do not know how the law applies to them, while legal departments, advice bodies, courts and tribunals face severe case backlogs that delay justice for months or years.",
+      "audience": "Everyday citizens (UK tenants, consumers and employees, including people whose first language is not English) preparing to fight their own case, alongside legal departments, advice agencies and tribunal judges working to clear case backlogs.",
+      "today": "A live self-help web app (not legal advice) that helps the common person understand the relevant law across 28 areas of England and Wales civil and employment law, prepares them to fight their own case, tracks critical deadlines, and structures the full chronology and context so legal department and tribunal backlogs can be reduced dramatically.",
+      "future": "Clearing legal and tribunal backlogs fast: giving citizens rapid self-help legal preparation and giving tribunal judges clear, structured case context to speed up hearings and final judgments."
     },
     {
       "slug": "astral-nexus",
@@ -77,10 +77,10 @@
       "status": "live",
       "siteUrl": "https://astralnexus.athi360.uk",
       "ownDomain": false,
-      "problem": "Astrology tools are scattered, ad-ridden, and rarely explain their method.",
-      "audience": "People curious about their Moon sign, rising sign and nakshatra.",
-      "today": "A live site with reading tools across traditions.",
-      "future": "More traditions and place-aware tools."
+      "problem": "World cultures built deep mathematical and symbolic traditions to read the sky, the palm and dreams—yet modern astrology apps scatter and flatten them into generic, ad-ridden pop horoscopes that never show how different traditions interpret the same blueprint.",
+      "audience": "Curious explorers and pattern-seekers who want to enter their birth details, palm readings or dream symbols and see how different cultural systems and traditions interpret them side by side, alongside scholars working with historical manuscripts.",
+      "today": "A live multi-tradition platform at astralnexus.athi360.uk across 7 languages: calculates your birth chart (Lagna, Moon sign, rising sign, nakshatras and dashas) on your own device with a real open-source ephemeris, alongside cross-cultural reading traditions, card decks and dream dossiers backed by 530+ researched sources.",
+      "future": "Expanded palmistry (Hastarekha) and comparative cultural reading modules, place-aware sky tools, and a cited archive of ancient palm leaves and historical texts."
     }
   ]
 }

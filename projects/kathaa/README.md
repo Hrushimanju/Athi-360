@@ -4,19 +4,19 @@
 
 ## The problem
 
-Daily spoken storytelling used to give families something to share and talk about. Many children and older people now spend evenings alone, with nothing to say to each other.
+Two vital traditions have faded: bedtime stories that teach morals and reflection, and the traditional folk tales once told aloud on neighbourhood streets that passed down local culture. Endless scrolling leaves people disconnected from their roots, while many online retellings rely on Western or British colonial sources rather than truthful indigenous records.
 
 ## Who it is for
 
-Children home alone, busy adults who want one good hour instead of endless scrolling, and isolated older people.
+Children, families, students and busy adults who want one focused hour of spoken bedtime stories, street folk tales and moral education—and who want to keep a clean journal of the ideas and thoughts that strike them at the moment of listening.
 
 ## What it does today
 
-A web app with the series The 12 Jyotirlingas (first 3 chapters): Sanskrit verses with transliteration, a story read aloud, a private journal, and a deliberate 60-minute daily limit.
+A live spoken-storytelling platform with The 12 Jyotirlingas (first 3 chapters): original Sanskrit verses with transliteration, moral storytelling read aloud, a built-in private journal to capture your ideas as you listen, and a strict 60-minute daily limit grounded in authentic indigenous sources rather than Western or British colonial filters.
 
 ## What it could mean later
 
-More series (myths, history, children's bedtime knowledge), family accounts, and narration in familiar voices with recorded consent.
+Why one hour a day? Because we do not want to take much of your time, and one hour of daily knowledge starts like a seed that grows into a wisdom plant for the future. Ahead: street folk tales, regional legends, moral fables, family accounts, and narration in familiar voices with recorded consent.
 
 ## Links
 

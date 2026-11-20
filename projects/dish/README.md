@@ -4,19 +4,19 @@
 
 ## The problem
 
-More meals are being ordered in, and more people live alone, so everyday cooking is becoming a lost skill and cooking for one feels pointless.
+Bachelors and solo-living people who like to cook often know very little about how cooking actually works. Ordering takeaway gets expensive and repetitive, while recipe sites assume a full family pantry and never teach a solo beginner how to become their own chef.
 
 ## Who it is for
 
-People living alone, beginners, and anyone who cannot decide what to make from what is in the kitchen.
+Bachelors, solo-living people and kitchen beginners who want to become their own home chefs from the ingredients they already have—plus adventurous learners open to fun weekly cooking exercises (only try the experimental ones if you are open to wasting a bit of money on food experiments while you learn!).
 
 ## What it does today
 
-An early public version: type the ingredients you have and it suggests a dish with beginner-friendly, numbered steps. 16 built-in everyday dishes, with no-oil variants and flavour tips.
+A live web app at dish.athi360.uk: type the ingredients you have (including Hinglish like tamatar, aloo, tel) and get beginner-friendly, numbered solo cooking steps across 16 built-in everyday dishes, with no-oil variants and one-ingredient flavour upgrades.
 
 ## What it could mean later
 
-Making home cooking for one practical again: wider recipes, pantry-aware suggestions, and meals that fit a solo routine.
+Helping solo-living beginners become confident home chefs through fun weekly cooking exercises, guided flavour experiments, wider solo recipes with safety checks, and healthy meal demonstrations.
 
 ## Links
 
