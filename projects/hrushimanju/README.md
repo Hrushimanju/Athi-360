@@ -4,19 +4,19 @@
 
 ## The problem
 
-Why learn about fashion? The world revolves around appearance: when you look good, people are far more willing to approach and engage with you. Yet many people know nothing about fashion and have no scientific, unbiased way to know how to look good in the clothes they already own.
+Most people own plenty of clothes they rarely combine well because nobody shows how lightness contrast, undertone hue gap, and silhouette balance work together, while commercial styling apps push new purchases or output rigid single-photo seasonal labels that flip whenever room lighting changes.
 
 ## Who it is for
 
-People who know nothing about fashion and want a welcoming introduction, anyone who wants to look approachable and sharp using the wardrobe they already own, plus cosplayers and aspiring self-taught fashion designers.
+Adults (18+) who want an analytical way to compare outfits using the wardrobe they already own, alongside cosplayers and self-taught fashion learners studying colour geometry and proportion.
 
 ## What it does today
 
-A live web app (18+) at hrushimanju.uk that introduces fashion through scientific skin-analysis and colour-engineering work: an in-browser 3D CIELAB colour harmony engine, Bradford multi-illuminant calibration, background-transparent garment cutouts and a Visual Outfit Composer for the clothes you already own, processed in browser RAM by default.
+A live 18+ static garment-only showcase at hrushimanju.uk: compares Look A against Look B in browser RAM using 3D CIELAB colour geometry, four-illuminant Bradford chromatic adaptation (6500K to 2700K), nine structural outfit rules, and manual non-ranked Shade Twin reference swatches (with zero face-photo uploads while formal DPIA and age-assurance review is in progress, and zero server calls).
 
 ## What it could mean later
 
-Custom outfit design simulation for beginners and cosplayers, controlled-capture colour calibration kits, and 3D personal avatar styling.
+Completing external DPIA and age-assurance sign-off, controlled-capture colour calibration kits for cosplayers, and custom outfit prototyping.
 
 ## Links
 

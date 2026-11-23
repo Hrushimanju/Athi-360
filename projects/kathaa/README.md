@@ -8,11 +8,11 @@ Two vital traditions have faded: bedtime stories that teach morals and reflectio
 
 ## Who it is for
 
-Children, families, students and busy adults who want one focused hour of spoken bedtime stories, street folk tales and moral education—and who want to keep a clean journal of the ideas and thoughts that strike them at the moment of listening.
+Children, families, students and busy adults who want one focused hour of spoken bedtime stories, street folk tales and moral education, with a private journal for ideas and thoughts as they listen.
 
 ## What it does today
 
-A live spoken-storytelling platform with The 12 Jyotirlingas (first 3 chapters): original Sanskrit verses with transliteration, moral storytelling read aloud, a built-in private journal to capture your ideas as you listen, and a strict 60-minute daily limit grounded in authentic indigenous sources rather than Western or British colonial filters.
+A live spoken-storytelling web app with The 12 Jyotirlingas (first 3 chapters, clearly marked as AI-assisted Sanskrit and English drafts awaiting human Sanskrit scholar review), spoken narration, a built-in private browser journal, and a strict 60-minute daily limit.
 
 ## What it could mean later
 

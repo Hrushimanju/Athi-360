@@ -4,19 +4,19 @@
 
 ## The problem
 
-Bachelors and solo-living people who like to cook often know very little about how cooking actually works. Ordering takeaway gets expensive and repetitive, while recipe sites assume a full family pantry and never teach a solo beginner how to become their own chef.
+Bachelors, students, and solo-living people who enjoy food often find recipe sites written for stocked family pantries, with little guidance on pan heat, zero-oil substitutions, or regional allergen rules.
 
 ## Who it is for
 
-Bachelors, solo-living people and kitchen beginners who want to become their own home chefs from the ingredients they already have—plus adventurous learners open to fun weekly cooking exercises (only try the experimental ones if you are open to wasting a bit of money on food experiments while you learn!).
+Bachelors, solo households, and kitchen beginners cooking from whatever is already in the fridge, plus curious learners trying small-batch weekly mystery-ingredient challenges.
 
 ## What it does today
 
-A live web app at dish.athi360.uk: type the ingredients you have (including Hinglish like tamatar, aloo, tel) and get beginner-friendly, numbered solo cooking steps across 16 built-in everyday dishes, with no-oil variants and one-ingredient flavour upgrades.
+A live web app at dish.athi360.uk: tap or type the ingredients you have (including Hinglish like jeera, tamatar, aloo, tel) to match across 1,277 safety-gated recipes (17 hand-written solo staples plus 1,260 AI-drafted recipes machine-checked for doneness cues, raw-meat hygiene, and UK/EU/US/India allergens, each clearly marked as not yet human-reviewed), with no-oil variants, stove-knob heat guidance, 5 interactive 3D WebGL cooking physics scenes, and a Monday 5-ingredient Chef's Challenge.
 
 ## What it could mean later
 
-Helping solo-living beginners become confident home chefs through fun weekly cooking exercises, guided flavour experiments, wider solo recipes with safety checks, and healthy meal demonstrations.
+Human culinary testing across the AI-drafted recipe library, verified household food-hygiene sources for India and EU registers, and community-rated weekly solo cooking experiments.
 
 ## Links
 

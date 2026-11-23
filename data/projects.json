@@ -23,8 +23,8 @@
       "siteUrl": "https://kathaa.athi360.uk",
       "ownDomain": false,
       "problem": "Two vital traditions have faded: bedtime stories that teach morals and reflection, and the traditional folk tales once told aloud on neighbourhood streets that passed down local culture. Endless scrolling leaves people disconnected from their roots, while many online retellings rely on Western or British colonial sources rather than truthful indigenous records.",
-      "audience": "Children, families, students and busy adults who want one focused hour of spoken bedtime stories, street folk tales and moral education—and who want to keep a clean journal of the ideas and thoughts that strike them at the moment of listening.",
-      "today": "A live spoken-storytelling platform with The 12 Jyotirlingas (first 3 chapters): original Sanskrit verses with transliteration, moral storytelling read aloud, a built-in private journal to capture your ideas as you listen, and a strict 60-minute daily limit grounded in authentic indigenous sources rather than Western or British colonial filters.",
+      "audience": "Children, families, students and busy adults who want one focused hour of spoken bedtime stories, street folk tales and moral education, with a private journal for ideas and thoughts as they listen.",
+      "today": "A live spoken-storytelling web app with The 12 Jyotirlingas (first 3 chapters, clearly marked as AI-assisted Sanskrit and English drafts awaiting human Sanskrit scholar review), spoken narration, a built-in private browser journal, and a strict 60-minute daily limit.",
       "future": "Why one hour a day? Because we do not want to take much of your time, and one hour of daily knowledge starts like a seed that grows into a wisdom plant for the future. Ahead: street folk tales, regional legends, moral fables, family accounts, and narration in familiar voices with recorded consent."
     },
     {
@@ -33,10 +33,10 @@
       "status": "live",
       "siteUrl": "https://dish.athi360.uk",
       "ownDomain": false,
-      "problem": "Bachelors and solo-living people who like to cook often know very little about how cooking actually works. Ordering takeaway gets expensive and repetitive, while recipe sites assume a full family pantry and never teach a solo beginner how to become their own chef.",
-      "audience": "Bachelors, solo-living people and kitchen beginners who want to become their own home chefs from the ingredients they already have—plus adventurous learners open to fun weekly cooking exercises (only try the experimental ones if you are open to wasting a bit of money on food experiments while you learn!).",
-      "today": "A live web app at dish.athi360.uk: type the ingredients you have (including Hinglish like tamatar, aloo, tel) and get beginner-friendly, numbered solo cooking steps across 16 built-in everyday dishes, with no-oil variants and one-ingredient flavour upgrades.",
-      "future": "Helping solo-living beginners become confident home chefs through fun weekly cooking exercises, guided flavour experiments, wider solo recipes with safety checks, and healthy meal demonstrations."
+      "problem": "Bachelors, students, and solo-living people who enjoy food often find recipe sites written for stocked family pantries, with little guidance on pan heat, zero-oil substitutions, or regional allergen rules.",
+      "audience": "Bachelors, solo households, and kitchen beginners cooking from whatever is already in the fridge, plus curious learners trying small-batch weekly mystery-ingredient challenges.",
+      "today": "A live web app at dish.athi360.uk: tap or type the ingredients you have (including Hinglish like jeera, tamatar, aloo, tel) to match across 1,277 safety-gated recipes (17 hand-written solo staples plus 1,260 AI-drafted recipes machine-checked for doneness cues, raw-meat hygiene, and UK/EU/US/India allergens, each clearly marked as not yet human-reviewed), with no-oil variants, stove-knob heat guidance, 5 interactive 3D WebGL cooking physics scenes, and a Monday 5-ingredient Chef's Challenge.",
+      "future": "Human culinary testing across the AI-drafted recipe library, verified household food-hygiene sources for India and EU registers, and community-rated weekly solo cooking experiments."
     },
     {
       "slug": "circuit-lab",
@@ -44,10 +44,10 @@
       "status": "live",
       "siteUrl": "https://circuit-lab.athi360.uk",
       "ownDomain": false,
-      "problem": "Standard electronics teaching only tells you that a circuit fails or calls a method wrong—no one teaches you why it fails unless you physically experiment. For small equipment trial-and-error helps, but for big applications you are too afraid of costly mistakes to experiment freely, while innovators wanting to upgrade a specific electrical component lack a clean simulation environment.",
-      "audience": "Innovators with brilliant ideas to upgrade specific electrical components, complete beginners and students who want electronics taught in the simplest way with clear explanations of why circuits fail, and researchers or engineers planning the placement of electrical components inside confined systems.",
-      "today": "A live parametric CAD and SPICE simulation studio at circuit-lab.athi360.uk powered by real ngspice WebAssembly in the browser, with 24 verified packs, AC Bode sweeps, 94 automated tests, and a 6-variant C9 ablation tutor that shows exactly where and why a circuit fails so you can focus on brainstorming ideas.",
-      "future": "Turning small electrical theories into big innovations: simulating component upgrades and where they can be applied, planning component placement inside confined systems for researchers, and finding leaner, higher-efficiency circuits verified by a real SPICE solver."
+      "problem": "Standard electronics teaching tells you that a circuit failed without showing why unless you damage real parts. On expensive equipment the risk discourages experimentation, while makers testing component changes and researchers planning layouts inside confined enclosures lack a verifiable browser lab.",
+      "audience": "Makers and engineers testing upgrades to specific electrical components, beginners and students who want clear explanations of why circuits fail, and researchers planning component placement inside confined systems.",
+      "today": "A live parametric CAD and SPICE simulation studio at circuit-lab.athi360.uk powered by real ngspice WebAssembly in the browser, with 24 verified packs, AC Bode sweeps, 103 engine solver tests and 1,197 unit tests, a 6-variant C9 ablation engine, and a live AI Explain, Fix, and Tutor drawer on Azure AI Foundry (DeepSeek-V4) behind a global daily spend cap.",
+      "future": "Simulating component upgrades and where they perform best, planning component placement inside confined systems for researchers, and finding leaner, higher-efficiency circuits verified by a real SPICE solver."
     },
     {
       "slug": "hrushimanju",
@@ -55,10 +55,10 @@
       "status": "live",
       "siteUrl": "https://hrushimanju.uk",
       "ownDomain": true,
-      "problem": "Why learn about fashion? The world revolves around appearance: when you look good, people are far more willing to approach and engage with you. Yet many people know nothing about fashion and have no scientific, unbiased way to know how to look good in the clothes they already own.",
-      "audience": "People who know nothing about fashion and want a welcoming introduction, anyone who wants to look approachable and sharp using the wardrobe they already own, plus cosplayers and aspiring self-taught fashion designers.",
-      "today": "A live web app (18+) at hrushimanju.uk that introduces fashion through scientific skin-analysis and colour-engineering work: an in-browser 3D CIELAB colour harmony engine, Bradford multi-illuminant calibration, background-transparent garment cutouts and a Visual Outfit Composer for the clothes you already own, processed in browser RAM by default.",
-      "future": "Custom outfit design simulation for beginners and cosplayers, controlled-capture colour calibration kits, and 3D personal avatar styling."
+      "problem": "Most people own plenty of clothes they rarely combine well because nobody shows how lightness contrast, undertone hue gap, and silhouette balance work together, while commercial styling apps push new purchases or output rigid single-photo seasonal labels that flip whenever room lighting changes.",
+      "audience": "Adults (18+) who want an analytical way to compare outfits using the wardrobe they already own, alongside cosplayers and self-taught fashion learners studying colour geometry and proportion.",
+      "today": "A live 18+ static garment-only showcase at hrushimanju.uk: compares Look A against Look B in browser RAM using 3D CIELAB colour geometry, four-illuminant Bradford chromatic adaptation (6500K to 2700K), nine structural outfit rules, and manual non-ranked Shade Twin reference swatches (with zero face-photo uploads while formal DPIA and age-assurance review is in progress, and zero server calls).",
+      "future": "Completing external DPIA and age-assurance sign-off, controlled-capture colour calibration kits for cosplayers, and custom outfit prototyping."
     },
     {
       "slug": "consumersuit",
@@ -66,10 +66,10 @@
       "status": "live",
       "siteUrl": "https://consumer-suit.uk",
       "ownDomain": true,
-      "problem": "Ordinary people facing a dispute cannot afford a solicitor and do not know how the law applies to them, while legal departments, advice bodies, courts and tribunals face severe case backlogs that delay justice for months or years.",
-      "audience": "Everyday citizens (UK tenants, consumers and employees, including people whose first language is not English) preparing to fight their own case, alongside legal departments, advice agencies and tribunal judges working to clear case backlogs.",
-      "today": "A live self-help web app (not legal advice) that helps the common person understand the relevant law across 28 areas of England and Wales civil and employment law, prepares them to fight their own case, tracks critical deadlines, and structures the full chronology and context so legal department and tribunal backlogs can be reduced dramatically.",
-      "future": "Clearing legal and tribunal backlogs fast: giving citizens rapid self-help legal preparation and giving tribunal judges clear, structured case context to speed up hearings and final judgments."
+      "problem": "Ordinary people facing a consumer, tenancy, or workplace dispute often cannot afford a solicitor and struggle to work out which statute sections or time limits apply to their facts before critical deadlines expire.",
+      "audience": "Everyday citizens in England and Wales (tenants, consumers, and employees, including people whose first language is not English) organising their own dispute timeline, evidence, and correspondence as litigants in person.",
+      "today": "A live self-help legal information web app in public beta (not legal advice and not a law firm) covering 63 statutes across 8 areas of England and Wales civil and employment law. It structures scattered notes and documents into a chronological timeline, checks statutory deadlines, fetches live statute sections from legislation.gov.uk, and publishes open accuracy scorecards at consumer-suit.uk/beta.html.",
+      "future": "Solicitor-reviewed pilot evaluations with university law clinics and advice bodies, tighter multi-run section determinism, and structured summaries designed to help advisers and tribunal panels read litigant-in-person bundles faster."
     },
     {
       "slug": "astral-nexus",
